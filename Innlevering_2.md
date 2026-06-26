@@ -7,6 +7,17 @@
 ### <span style="color:OrangeRed;"> Tid: 1. oktober, kl.17 </span>
 ### <span style="color:OrangeRed;"> Innlevering i Canvas. Alle i gruppen skal levere inn oppgaven </span>
 
+## Oppgave
+
+Velg et problem som blir tatt opp i enten kapittel 8, 9, 15 - 16 i Tietenberg og Lewis.
+
+Beskriv problemet i ord og ved bruk av data (som du finner selv)
+
+Analyserer problemet grafisk ved bruk av økonomisk teori (kapittel 2,
+
+Analyser et tiltak som prøver å bøte på problemet. Diskuter i hvilken grad tiltaket er samfunnsøkonomisk effektivt. Illustrer grafisk. 
+
+Diskuter utfordringer knyttet til tiltaket. 
 
 **Førberedelser og støtte:**
 
