@@ -13,12 +13,11 @@ Planen er preliminær og kan oppdateres. For oppdatert timeplan, se [timeplan.ui
 |02. Sept.        |  08:15 - 10:00 |Seminar         | Kost-nytte analyse               |TL: kap  3 |
 |08. Sept.         |  10:15 - 12:00 |Forelesning     | Verdsetting                     |TL: kap 4 og 16   |
 |11. Sept.         |  10:15 - 12:00 |Seminar         | Verdsetting                     |TL: kap 4 og 16   |
-|15. Sept.         |  10:15 - 12:00 |Forelesning    | Forurensing                       |TL: kap 7    |
-|16. Sept.         |  10:15 - 12:00 |Forelesning      | Forurensing                     |TL: kap 7    |
-|18. Sept.         |  10:15 - 12:00 |Seminar      | Forurensing                         |TL: kap 7    |
-|14. Sept.        |  08:15 - 10:00 |Forelesning     | Forurensing                       |TL: kap 7    |
-|24. Sept.        |  14:15 - 16:00 |TEST     | Flervalgtest 1                          |TL: k1-4, 7, 16, SØ: kap 4-5 (markedssvikt)   |
-|29. Sept.        |  12:15 - 14:00 |Seminar     | Utfordringsseminar 1     | TL: k1-4, 7-9 16, SØ: kap 4-5 (markedssvikt)  |
+|15. Sept.         |  10:15 - 12:00 |Forelesning    | Forurensing                       |TL: kap 7,15    |
+|16. Sept.         |  10:15 - 12:00 |Forelesning      | Forurensing                     |TL: kap 7,15    |
+|18. Sept.         |  10:15 - 12:00 |Seminar      | Forurensing                         |TL: kap 7,15    |
+|24. Sept.        |  14:15 - 16:00 |TEST     | Flervalgtest 1                          |TL: k1-4, 7, 15- 16, SØ: kap 4-5 (markedssvikt)   |
+|29. Sept.        |  12:15 - 14:00 |Seminar     | Utfordringsseminar 1     | TL: k1-4, 7-9 15-16, SØ: kap 4-5 (markedssvikt)  |
 |05. Okt.        |  10:15 - 12:00 |Forelesning      | Dynamisk effektivitet/uttømmingsbare ressurser      |TL: kap 5-6   |
 |07. Okt.         |  08:15 - 10:00 |Forelesning    | Dynamisk effektivitet/uttømmingsbare ressurser       |TL: kap 5-6     |
 |13. Okt.         |  10:15 - 12:00 |Seminar      | Dynamisk effektivitet/uttømmingsbare ressurser      |TL: kap 5-6  |
@@ -29,7 +28,7 @@ Planen er preliminær og kan oppdateres. For oppdatert timeplan, se [timeplan.ui
 |28. Okt.        |  10:15 - 12:00 |Seminar          | Klima og energi                  | TL: kap 11-13    |
 |03. Nov.        |  10:15 - 12:00 |Forelesning      | Sirkulær økonomi                 | TL: kap 20, kap 4-5  |
 |04. Nov.        |  10:15 - 12:00 |Forelesning      | Sirkulær økonomi                  | TL: kap 20, kap 4-5  |
-|11. Nov.        |  10:15 - 12:00 |TEST              | Flervalgtest 2                   | TL: kap.5-6, 11-13, 17, 20. SØ: kap 4-5  |
+|13. Nov.        |  10:15 - 12:00 |TEST              | Flervalgtest 2                   | TL: kap.5-6, 11-13, 17, 20. SØ: kap 4-5  |
 |17. Nov.        |  10:15 - 12:00 |Seminar           | Utfordringsseminar               |TL: kap.5-6, 11-13, 17, 20. SØ: kap 4-5   |
 |20. Nov.        |  10:15 - 12:00 |Forelesning      | Oppsummering og informasjon om muntlig eksamen     |   |
 
