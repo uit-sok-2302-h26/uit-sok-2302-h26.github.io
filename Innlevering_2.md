@@ -9,15 +9,15 @@
 
 ## Oppgave
 
-Velg et problem som blir tatt opp i enten kapittel 8, 9, 15 - 16 i Tietenberg og Lewis.
+- Velg et problem som blir tatt opp i enten kapittel 8, 9, 15 - 16 i Tietenberg og Lewis.
 
-Beskriv problemet i ord og ved bruk av data (som du finner selv)
+- Beskriv problemet i ord og ved bruk av data (som du finner selv)
 
-Analyserer problemet grafisk ved bruk av økonomisk teori (kapittel 2,
+- Analyser problemet grafisk ved bruk av økonomisk teori (kapittel 2 - 4 i Tietenberg og Lewis, kap 4-5 i Ikke rett fram)
 
-Analyser et tiltak som prøver å bøte på problemet. Diskuter i hvilken grad tiltaket er samfunnsøkonomisk effektivt. Illustrer grafisk. 
+- Analyser et tiltak som prøver å bøte på problemet. Diskuter i hvilken grad tiltaket er samfunnsøkonomisk effektivt. Illustrer grafisk. 
 
-Diskuter utfordringer knyttet til tiltaket. 
+- Diskuter utfordringer knyttet til tiltaket. 
 
 **Førberedelser og støtte:**
 
