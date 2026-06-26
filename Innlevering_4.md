@@ -7,6 +7,17 @@
 ### <span style="color:OrangeRed;"> Tid: 19. november, kl.17 </span>
 ### <span style="color:OrangeRed;"> Innlevering i Canvas. Alle i gruppen skal levere inn oppgaven </span>
 
+## Oppgave
+
+- Forklar begrepet bærekraftig utvikling i ord og ved bruk av økonomisk teori.
+
+- Forklar hva sirkulær økonomi er for noe, og hvorfor en sirkulær økonomi er viktig for bærekraftig utvikling.
+
+- Forklar hvorfor markeder alene kanskje ikke klarer å få til en bærekraftig utvikling når det kommer til klima og sirkulær økonomi.
+
+- Finn data som er relevant for klima eller sirkulær økonomi og som Illustrerer utfordringen som vi står innfor. 
+
+- Diskuter minst et politisk tiltak som har til formål å øke bærekraften i utviklingen. Illustrer tiltaket grafisk og analyser ved bruk av økonomisk teori. 
 
 **Førberedelser og støtte:**
 
