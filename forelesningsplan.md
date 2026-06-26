@@ -11,11 +11,11 @@ Planen er preliminær og kan oppdateres. For oppdatert timeplan, se [timeplan.ui
 |28. Aug.        |  10:15 - 12:00 |Seminar          | Markedssvikt                     |TL: kap 2, SØ: kap 4-5  (markedssvikt)   |
 |01. Sept.        |  10:15 - 12:00 |Forelesning     | Kost-nytte analyse               |TL: kap 3    |
 |02. Sept.        |  08:15 - 10:00 |Seminar         | Kost-nytte analyse               |TL: kap  3 |
-|08. Sept.         |  10:15 - 12:00 |Forelesning     | Verdsetting                     |TL: kap 4 og 16   |
-|11. Sept.         |  10:15 - 12:00 |Seminar         | Verdsetting                     |TL: kap 4 og 16   |
-|15. Sept.         |  10:15 - 12:00 |Forelesning    | Forurensing                       |TL: kap 7,15    |
-|16. Sept.         |  10:15 - 12:00 |Forelesning      | Forurensing                     |TL: kap 7,15    |
-|18. Sept.         |  10:15 - 12:00 |Seminar      | Forurensing                         |TL: kap 7,15    |
+|08. Sept.         |  10:15 - 12:00 |Forelesning     | Verdsetting                     |TL: kap 4    |
+|11. Sept.         |  10:15 - 12:00 |Seminar         | Verdsetting                     |TL: kap 4   |
+|15. Sept.         |  10:15 - 12:00 |Forelesning    | Forurensing                       |TL: kap 7    |
+|16. Sept.         |  10:15 - 12:00 |Forelesning      | Forurensing                     |TL: kap 7    |
+|18. Sept.         |  10:15 - 12:00 |Seminar      | Forurensing                         |TL: kap 7   |
 |24. Sept.        |  14:15 - 16:00 |TEST     | Flervalgtest 1                          |TL: k1-4, 7, 15- 16, SØ: kap 4-5 (markedssvikt)   |
 |29. Sept.        |  12:15 - 14:00 |Seminar     | Utfordringsseminar 1     | TL: k1-4, 7-9 15-16, SØ: kap 4-5 (markedssvikt)  |
 |05. Okt.        |  10:15 - 12:00 |Forelesning      | Dynamisk effektivitet/uttømmingsbare ressurser      |TL: kap 5-6   |
