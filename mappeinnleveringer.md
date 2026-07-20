@@ -28,7 +28,7 @@ Denne siden inneholder installasjonsfiler for Windows, macOS og iOS. Før hver f
 Før de tellende flervalgstestene gjennomfører vi en egen prøve-SEB. Dette gir deg mulighet til å prøve opplegget på forhånd og sikre at SEB og som de skal før selve flervalgstestdagene.
 
 #### Evaluering av flervalgstester
-For å få poeng på flervalgstesten må du ha minst 25% riktige svar. Hvis du har det, vil poengen din bli: prosent riktige svar x 2 (f.eks 0.75x2 = 1.5). 
+For å få poeng på flervalgstesten må du ha minst 25% riktige svar. Hvis du har det, vil poengen din bli: andel riktige svar (75% riktige svar = 0.75 poeng). 
 Alle spørsmål på flervalgtestene har fire svaralternativer hvorav bare ett er riktig.  
 
 
