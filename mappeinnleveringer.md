@@ -10,10 +10,10 @@
 
 | Type oppgave                                        | Innleveringsfrist                        | 
 |-----------------------------------------------------|------------------------------------------|
-|[Mappeoppgave 1 - Flervalgtest](innlevering_1.md)                    |  2026.09.24 14:15-16:00     | 
-|[Mappeoppgave 2 - Utfordring](innlevering_2.md)                    |  2026.10.02 kl 17:00        | 
-|[Mappeoppgave 3 - Flervalgtest](innlevering_3.md)                    |  2026.11.13 kl       | 
-|[Mappeoppgave 4 - Utfordring](innlevering_4.md)                    |  2026.11.19 kl 17:00        | 
+|[Mappeoppgave 1 - Flervalgtest](Innlevering_1.md)                    |  2026.09.24 14:15-16:00     | 
+|[Mappeoppgave 2 - Utfordring](Innlevering_2.md)                    |  2026.10.02 kl 17:00        | 
+|[Mappeoppgave 3 - Flervalgtest](Innlevering_3.md)                    |  2026.11.13 kl       | 
+|[Mappeoppgave 4 - Utfordring](Innlevering_4.md)                    |  2026.11.19 kl 17:00        | 
 
 ## 2. Overgripende struktur
 
