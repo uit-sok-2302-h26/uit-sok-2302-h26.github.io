@@ -14,6 +14,8 @@ På denne siden vil vi laste opp forelesningsnotater og andre ressurser som vi t
 ### Markedssvikt
 
 #### Forelesningsnotater
+*  [Statisk effektivitet og markedssvikt](https://uit-sok-2302-h26.github.io/assets/F2_sok2302_h26.pdf)
+
 
 #### Støtteressurser (youtube-filmer)
 * [Eksternaliteter 1 - Think Econ](https://www.youtube.com/watch?v=tVX_BSV-h-E)
