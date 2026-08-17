@@ -6,6 +6,7 @@ På denne siden vil vi laste opp forelesningsnotater og andre ressurser som vi t
 
 ### F1 - Introduksjon til kurset
 #### Forelesningsnotater
+*  [Introduksjon til kurset](https://uit-sok-2302-h26.github.io/assets/F1_sok2302_h26.pdf)
 
 #### Støtteressurser
 * [Kræsj-kurs i miljøøkonomi - CrashCourse](https://www.youtube.com/watch?v=BlAfFgKQ5r8)
