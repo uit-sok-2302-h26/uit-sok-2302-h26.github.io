@@ -4,7 +4,7 @@
 
 # Mappeoppgave 2 - Utfordring 1
 
-### <span style="color:OrangeRed;"> Tid: 1. oktober, kl.17 </span>
+### <span style="color:OrangeRed;"> Tid: 2. oktober, kl.17 </span>
 ### <span style="color:OrangeRed;"> Innlevering i Canvas. Alle i gruppen skal levere inn oppgaven </span>
 
 ## Oppgave
