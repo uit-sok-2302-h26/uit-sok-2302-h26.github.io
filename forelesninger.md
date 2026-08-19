@@ -38,7 +38,7 @@ På denne siden vil vi laste opp forelesningsnotater og andre ressurser som vi t
 * [Kostnytte-analyse 3: Nettonåverdie - Conservation Strategy Fund](https://www.youtube.com/watch?v=2HXwiCoYM8o)
 * [Kostnytte-analyse 4: Social Cost of Carbon](https://www.youtube.com/watch?v=VXLzaRoxJK4)
 
-### Verdsetting
+### F4 - Verdsetting
 
 #### Forelesningsnotater
 
@@ -50,7 +50,7 @@ På denne siden vil vi laste opp forelesningsnotater og andre ressurser som vi t
 * [Vurdering 3: Hedoniske priser - Conservation Strategy Fund](https://www.youtube.com/watch?v=LkXVCQam5kw)
 
 
-### Kontroll av forurrensing
+### F5 - Kontroll av forurrensing
 
 #### Forelesningsnotater
 
@@ -62,12 +62,12 @@ På denne siden vil vi laste opp forelesningsnotater og andre ressurser som vi t
 
   
   
-### Dynamisk effektivitet og uttømmingsbare ressurser
+### F6 - Dynamisk effektivitet og uttømmingsbare ressurser
 
 
 #### Forelesningsnotater
 
-### Klima og energi
+### F7 - Klima og energi
 
 #### Forelesningsnotater
 
@@ -80,7 +80,7 @@ På denne siden vil vi laste opp forelesningsnotater og andre ressurser som vi t
 * [Global tipping points report 2025](assets/GTP_summary_report_2025-V5-111025-PAGES-LO-RES.pdf)
 
 
-### Bærekraftig utvikling og sirkulær økonomi
+### F8 - Bærekraftig utvikling og sirkulær økonomi
 
 #### Forelesningsnotater
 
