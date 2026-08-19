@@ -11,11 +11,9 @@ På denne siden vil vi laste opp forelesningsnotater og andre ressurser som vi t
 #### Støtteressurser
 * [Kræsj-kurs i miljøøkonomi - CrashCourse](https://www.youtube.com/watch?v=BlAfFgKQ5r8)
 
-### Markedssvikt
-
+### F2 - Markedssvikt
 #### Forelesningsnotater
 *  [Statisk effektivitet og markedssvikt](https://uit-sok-2302-h26.github.io/assets/F2_sok2302_h26.pdf)
-
 
 #### Støtteressurser (youtube-filmer)
 * [Eksternaliteter 1 - Think Econ](https://www.youtube.com/watch?v=tVX_BSV-h-E)
@@ -30,11 +28,11 @@ På denne siden vil vi laste opp forelesningsnotater og andre ressurser som vi t
 * [Asymmetrisk informasjon: Vann - Marginal revolution university](https://www.youtube.com/watch?v=1jwleEv0MYQ)
 * [Asymmetrisk informasjon: Skjevt utvalg og moral hasard, INOMICS](https://www.youtube.com/watch?v=39QhA4qCOec)
 
-### Kostnytteanalyse
+### F3 - Kostnytteanalyse
 
-##### Forelesningsnotater
+#### Forelesningsnotater
 
-##### Støtteressurser 
+#### Støtteressurser 
 * [Kostnytte-analyse 1: Intro - Conservation Strategy Fund](https://www.youtube.com/watch?v=7tdKkeNClPE&t=4s)
 * [Kostnytte-analyse 2: Diskontering - Conservation Strategy Fund](https://www.youtube.com/watch?v=Mol1yT7tczY)
 * [Kostnytte-analyse 3: Nettonåverdie - Conservation Strategy Fund](https://www.youtube.com/watch?v=2HXwiCoYM8o)
