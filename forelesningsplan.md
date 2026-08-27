@@ -16,7 +16,7 @@ Planen er preliminær og kan oppdateres. For oppdatert timeplan, se [timeplan.ui
 |15. Sept.         |  10:15 - 12:00 |Forelesning    | Forurensing                       |TL: kap 7    |
 |16. Sept.         |  10:15 - 12:00 |Forelesning      | Forurensing                     |TL: kap 7    |
 |18. Sept.         |  10:15 - 12:00 |Seminar      | Forurensing                         |TL: kap 7   |
-|24. Sept.        |  14:15 - 16:00 |TEST     | Flervalgtest 1                          |TL: k1-4, 7, 15- 16, SØ: kap 4-5 (markedssvikt)   |
+|24. Sept.        |  14:15 - 16:00 |TEST     | Flervalgtest 1                          |TL: k1-4, 7,  SØ: kap 4-5 (markedssvikt)   |
 |29. Sept.        |  12:15 - 14:00 |Seminar     | Utfordringsseminar 1     | TL: k1-4, 7-9 15-16, SØ: kap 4-5 (markedssvikt)  |
 |05. Okt.        |  10:15 - 12:00 |Forelesning      | Dynamisk effektivitet/uttømmingsbare ressurser      |TL: kap 5-6   |
 |07. Okt.         |  08:15 - 10:00 |Forelesning    | Dynamisk effektivitet/uttømmingsbare ressurser       |TL: kap 5-6     |
