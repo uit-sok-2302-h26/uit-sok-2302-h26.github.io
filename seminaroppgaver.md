@@ -7,3 +7,4 @@ På denne siden vil vi legge opp seminaroppgaver og eventuelle løsninger til op
 ## S1 - Markedssvikt
 
 * [S1 Markedssvikt - Seminaroppgave](https://uit-sok-2302-h26.github.io/assets/Seminar_1_sok2302.pdf)
+* [S1 Markedssvikt - Løsningsforslag](https://uit-sok-2302-h26.github.io/assets/Seminar_1_losn.pdf)
