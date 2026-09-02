@@ -28,9 +28,10 @@ På denne siden vil vi laste opp forelesningsnotater og andre ressurser som vi t
 * [Asymmetrisk informasjon: Vann - Marginal revolution university](https://www.youtube.com/watch?v=1jwleEv0MYQ)
 * [Asymmetrisk informasjon: Skjevt utvalg og moral hasard, INOMICS](https://www.youtube.com/watch?v=39QhA4qCOec)
 
-### F3 - Kostnytteanalyse
+### F3 - Nyttekostnads analyse
 
 #### Forelesningsnotater
+* [Nyttekostnads analyse](assets/F3_sok2302_h25_nytte_kostnad.pdf)
 
 #### Støtteressurser 
 * [Kostnytte-analyse 1: Intro - Conservation Strategy Fund](https://www.youtube.com/watch?v=7tdKkeNClPE&t=4s)
