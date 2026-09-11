@@ -17,7 +17,7 @@
 
 ## 2. Overgripende struktur
 
-### Mappeoppgave 1 og 2 - Flervalgtest
+### Mappeoppgave 1 og 3 - Flervalgtest
 Flervalgstestene vil innholde 15 - 25 spørsmål. Hvert spørsmål vil ha fire svarsalternativer, der et svarsalternativ er riktig. 
 Alle flervalgstestene gjennomføres **fysisk** i et klasserom på Handelshøgskolen. Vi har rommet i 2 timer, men vil kun bruke ca 1 time til testen. 
 De samme regler som gjelder ved eksamen, gjelder også for flervalgstestene. Hvis du har giltig årsak til at du ikke kan ta testen på angitt tidspunkt, vil vi se til at du får ta testen seinere. For dette trengs inntyg (f.eks. legeerklæring). 
