@@ -13,3 +13,8 @@ På denne siden vil vi legge opp seminaroppgaver og eventuelle løsninger til op
 
 * [S2 NKA - Seminaroppgave](assets/S2_sok2302_h26_nytte_kostnad.pdf)
 * [S2 NKA - Løsningsforslag](assets/S2_sok2302_h26_nytte_kostnad_losning.pdf)
+
+## S3 - Verdsettelse
+
+* [S2 Verdsettelse - Seminaroppgave](assets/Seminar verdsettelse.pptx)
+  
