@@ -16,5 +16,5 @@ På denne siden vil vi legge opp seminaroppgaver og eventuelle løsninger til op
 
 ## S3 - Verdsettelse
 
-* [S2 Verdsettelse - Seminaroppgave](assets/Seminar verdsettelse.pptx)
+* [S2 Verdsettelse - Seminaroppgave](assets/Seminarverdsettelse.pptx)
   
