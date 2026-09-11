@@ -43,6 +43,7 @@ På denne siden vil vi laste opp forelesningsnotater og andre ressurser som vi t
 
 #### Forelesningsnotater
 * [Verdsetting av natur](assets/Verdsetting_av_natur.pptx)
+* [Data fil](assets/wtp_datasett.csv)
 
 #### Støtteressurser
 * [Introduksjon til vurdering - Conservation Strategy Fund](https://www.youtube.com/watch?v=0CHIs9dLvxA)
