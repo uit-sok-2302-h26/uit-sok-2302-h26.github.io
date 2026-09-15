@@ -56,7 +56,8 @@ På denne siden vil vi laste opp forelesningsnotater og andre ressurser som vi t
 ### F5 - Kontroll av forurrensing
 
 #### Forelesningsnotater
-
+*  [Kontroll av forurensing](https://uit-sok-2302-h26.github.io/assets/F7_sok2302_forurensing_h26.pdf)
+  
 #### Støtteressurser (youtube-filmer)
 * [The hidden cost of pollution - Marginal revolutiin university](https://www.youtube.com/watch?v=JLHXYTbSQZY)
 * [Omsettelige utslippsrettigheter 1 - Marginal revolution university](https://www.youtube.com/watch?v=9tUb3MDrgEc)
