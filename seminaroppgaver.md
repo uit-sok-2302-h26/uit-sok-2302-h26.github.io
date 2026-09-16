@@ -16,5 +16,9 @@ På denne siden vil vi legge opp seminaroppgaver og eventuelle løsninger til op
 
 ## S3 - Verdsettelse
 
-* [S2 Verdsettelse - Seminaroppgave](assets/Seminarverdsettelse.pptx)
+* [S3 Verdsettelse - Seminaroppgave](assets/Seminarverdsettelse.pptx)
+
+## S4 - Kontroll av forurensing
+
+* [S4 Kontroll av forurensing - Seminaroppgave](assets/Seminar_4_pollution.pdf)
   
