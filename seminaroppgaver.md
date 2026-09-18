@@ -20,5 +20,6 @@ På denne siden vil vi legge opp seminaroppgaver og eventuelle løsninger til op
 
 ## S4 - Kontroll av forurensing
 
-* [S4 Kontroll av forurensing - Seminaroppgave](assets/Seminar_4_pollution.pdf)
+* [S4 Kontroll av forurensing - Seminaroppgave](https://uit-sok-2302-h26.github.io/assets/Seminar_4_pollution.pdf)
+* [S4 Kontroll av forurensing - Løsningsforslag](https://uit-sok-2302-h26.github.io/assets/Seminar_4_pollution_losn.pdf)
   
