@@ -11,7 +11,7 @@ Testen innholder spørsmål knyttet til kapittel 1- 4, 7, og 15-16 i Tietenberg 
 Makspoeng på testen er 1 poeng. For å få poeng på testen må du ha minst 25% riktige svar. Gitt at du har minst 25% riktige svar beregnes poengen prosent riktige svar. Poengen blir avrundet til en desimal. Testen skal tas individuelt. 
 
 
-** Testen gjennomføres i SafeExam**
+**Testen gjennomføres i SafeExam**
 
 Testen gjennomføres fysisk i klasserom HHT 02.217. For å ta testen må dere laste ned filen som dere finner [her](https://raw.githubusercontent.com/uit-sok-2302-h26/uit-sok-2302-h26.github.io/main/assets/sok_2302_h26.seb), finne den på deres datamaskin og klikke på filen. Datamaskinen vil da låses og ta dere til Canvasrommet med testen. Testen er passordbeskyttet. Dere vil få en kode til testen av foreleser når alle datamaskiner er i SafeExam modus. 
 
