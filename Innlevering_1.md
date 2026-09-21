@@ -8,9 +8,12 @@
 ### <span style="color:OrangeRed;"> Testen blir gjennomført fysisk i sal HHT 02.217, Innovatøren </span>
 
 Testen innholder spørsmål knyttet til kapittel 1- 4, 7, og 15-16 i Tietenberg og Lewis og rapporten "Ikke rett fram" (markedssvikt).  Hvert spørsmål har ett riktig svar, og tre feilsvar.
-Makspoeng på testen er 2 poeng. For å få poeng på testen må du ha minst 25% riktige svar. Gitt at du har minst 25% riktige svar beregnes poengen prosent riktige svar x 2. Poengen blir avrundet til en desimal. Testen skal tas individuelt. 
+Makspoeng på testen er 1 poeng. For å få poeng på testen må du ha minst 25% riktige svar. Gitt at du har minst 25% riktige svar beregnes poengen prosent riktige svar. Poengen blir avrundet til en desimal. Testen skal tas individuelt. 
 
-Vi vil publisere en lenke til testen **HER** før seminaret. Når forelesere gir beskjed om det, skal dere før testen klikke på lenken for å laste ned testen i Safe Exam Browser. 
+
+** Testen gjennomføres i SafeExam**
+
+Testen gjennomføres fysisk i klasserom HHT 02.217. For å ta testen må dere laste ned filen som dere finner [her](https://raw.githubusercontent.com/uit-sok-2302-h26/uit-sok-2302-h26.github.io/main/assets/sok_2302_h26.seb), finne den på deres datamaskin og klikke på filen. Datamaskinen vil da låses og ta dere til Canvasrommet med testen. Testen er passordbeskyttet. Dere vil få en kode til testen av foreleser når alle datamaskiner er i SafeExam modus. 
 
 
 Lykke til!
