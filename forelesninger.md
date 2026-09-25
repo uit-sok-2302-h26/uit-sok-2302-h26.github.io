@@ -42,7 +42,7 @@ På denne siden vil vi laste opp forelesningsnotater og andre ressurser som vi t
 ### F4 - Verdsetting
 
 #### Forelesningsnotater
-* [Verdsetting av natur](assets/Verdsetting av natur.pdf)
+* [Verdsetting av natur]("assets/Verdsetting av natur.pdf")
 * [Data fil](assets/wtp_datasett.csv)
 
 #### Støtteressurser
