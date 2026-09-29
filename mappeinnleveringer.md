@@ -48,10 +48,7 @@ For hver skriftlig mappeinnlevering skal 4 dokumenter leveres inn:
 Godkjente filtyper: R-skript, Python-skript, Quarto-skript.
 
 #### KI-deklarasjonen sitt innhold
-Der er lov å bruke KI til å løse utfordringen. Det er ikke lov å la KI skrive oppgaven. All KI-generert tekst og kode må analyseres kritisk og revideres før den blir brukt i oppgaven. Vi anbefaler å la KI gi tilbakemeldinger på oppgaven for å forbedre struktur og språk. 
-
-* Beskrivelse av hvordan KI har blitt brukt i oppgaven
-* Logg som viser promter og svar. Det er lov å legge ved en lenke, men sjekk at denne lenken funker for noen som ikke er logget inn på deres konto. 
+Det er lov å bruke KI som hjelpe-verktøy i arbeidet med utfordringene. Det er likevel dere som skal skrive oppgavene og dere er selve ansvarlige for innholdet i oppgavene deres. Hver innlevering skal inneholde en KI-deklarasjon. Du må ha med deklarasjonen selv om du ikke har brukt KI. Dersom du ikke gjør rede for ditt bruk av KI, vil oppdekket bruk anses som juks. KI-deklarasjonen skal innholde en beskrivelse av hvis KI har blitt brukt i oppgaven, hvordan KI har blitt brukt og hvilket verktøy som har blitt brukt. 
 
 #### Forfatter-deklarasjonen sitt innhold
 Formålet med forfatterdeklarasjonen er å gi en oversikt av hvem som har gjort hva i oppgaven. 
