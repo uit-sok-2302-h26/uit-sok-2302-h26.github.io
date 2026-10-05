@@ -68,6 +68,7 @@ På denne siden vil vi laste opp forelesningsnotater og andre ressurser som vi t
   
 ### F6 - Dynamisk effektivitet og uttømmingsbare ressurser
 
+* [Forelesning](assets/Kap5_SOK2302_H26_dynamisk_effektivitet.pptx)
 
 #### Forelesningsnotater
 
