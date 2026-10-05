@@ -70,6 +70,7 @@ På denne siden vil vi laste opp forelesningsnotater og andre ressurser som vi t
 
 * [Forelesning](assets/Kap5_SOK2302_H26_dynamisk_effektivitet.pptx)
 * [Forelesning med notat](assets/Kap5_SOK2302_H26_dynamisk_effektivitet_anotert.pdf)
+* [Matematisk utregning](assets/toperiodemodellen_parametrisk_og_tall.pdf)
 
 #### Forelesningsnotater
 
