@@ -72,6 +72,8 @@ På denne siden vil vi laste opp forelesningsnotater og andre ressurser som vi t
 * [Forelesning med notat](assets/Kap5_SOK2302_H26_dynamisk_effektivitet_anotert.pdf)
 * [Matematisk utregning](assets/toperiodemodellen_parametrisk_og_tall.pdf)
 
+* [Forelesning del 2](assets/K6_SOK2302_H26_ikke_fornybare_resurser.pptx)
+
 #### Forelesningsnotater
 
 ### F7 - Klima og energi
