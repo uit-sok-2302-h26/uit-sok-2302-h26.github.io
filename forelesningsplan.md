@@ -21,9 +21,9 @@ Planen er preliminær og kan oppdateres. For oppdatert timeplan, se [timeplan.ui
 |05. Okt.        |  10:15 - 12:00 |Forelesning      | Dynamisk effektivitet/uttømmingsbare ressurser      |TL: kap 5-6   |
 |07. Okt.         |  10:15 - 12:00 |Forelesning    | Dynamisk effektivitet/uttømmingsbare ressurser       |TL: kap 5-6     |
 |09. Okt.         |  12:15 - 14:00 |Seminar      | Dynamisk effektivitet/uttømmingsbare ressurser      |TL: kap 5-6  |
-|13. Okt.        |  10:15 - 12:00 |Forelesning      | Fellesressurser                  |TL: kap 17    |
-|14. Okt.        |  14:15 - 16:00 |Forelesning      | Fellesressurser                  |TL: kap 17    |
-|16. Okt.      |  10:15 - 12:00 |Seminar           | Fellesressurser                    |TL: kap 17    |
+|TBD        |   |Forelesning      | Fellesressurser                  |TL: kap 17    |
+|TBD        |   |Forelesning      | Fellesressurser                  |TL: kap 17    |
+|TBD        |   |Seminar           | Fellesressurser                    |TL: kap 17    |
 |20. Okt.        |  10:15 - 12:00 |Forelesning      | Klima og energi                   | TL: kap 11-13    |
 |21. Okt.        |  10:15 - 12:00 |Forelesning      | Klima og energi                  | TL: kap 11-13    |
 |23. Okt.        |  10:15 - 12:00 |Seminar          | Klima og energi                  | TL: kap 11-13    |
