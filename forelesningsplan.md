@@ -21,15 +21,12 @@ Planen er preliminær og kan oppdateres. For oppdatert timeplan, se [timeplan.ui
 |05. Okt.        |  10:15 - 12:00 |Forelesning      | Dynamisk effektivitet/uttømmingsbare ressurser      |TL: kap 5-6   |
 |07. Okt.         |  10:15 - 12:00 |Forelesning    | Dynamisk effektivitet/uttømmingsbare ressurser       |TL: kap 5-6     |
 |09. Okt.         |  12:15 - 14:00 |Seminar      | Dynamisk effektivitet/uttømmingsbare ressurser      |TL: kap 5-6  |
-|TBD        |   |Forelesning      | Fellesressurser                  |TL: kap 17    |
-|TBD        |   |Forelesning      | Fellesressurser                  |TL: kap 17    |
-|TBD        |   |Seminar           | Fellesressurser                    |TL: kap 17    |
-|20. Okt.        |  10:15 - 12:00 |Forelesning      | Klima og energi                   | TL: kap 11-13    |
+|20. Okt.        |  10:15 - 12:00 |Forelesning      | Fellesressurser                  | TL: kap 17    |
 |21. Okt.        |  10:15 - 12:00 |Forelesning      | Klima og energi                  | TL: kap 11-13    |
-|23. Okt.        |  10:15 - 12:00 |Seminar          | Klima og energi                  | TL: kap 11-13    |
-|26. Okt.        |  10:15 - 12:00 |Forelesning      | Sirkulær økonomi                 | TL: kap 20, kap 4-5  |
+|23. Okt.        |  10:15 - 12:00 |Seminar          | Fellesressurser                  | TL: kap 17    |
+|26. Okt.        |  10:15 - 12:00 |Forelesning      | Klima og energi                 | TL: kap 11-13  |
 |28. Okt.        |  14:15 - 16:00 |Forelesning      | Sirkulær økonomi                 | TL: kap 20, kap 4-5  |
-|30. Okt.        |  10:15 - 12:00 |Seminar      | Sirkulær økonomi                 | TL: kap 20, kap 4-5  |
+|30. Okt.        |  10:15 - 12:00 |Forelesning     | Sirkulær økonomi                 | TL: kap 20, kap 4-5  |
 |03. Nov.        |  10:15 - 12:00 |Forelesning      | Sirkulær økonomi i praksis v. Øivind Østbo, Remiks            | TL: kap 20, kap 4-5  |
 |13. Nov.        |  10:15 - 12:00 |TEST              | Flervalgtest 2                   | TL: kap.5-6, 11-13, 17, 20. SØ: kap 4-5  |
 |17. Nov.        |  10:15 - 12:00 |Seminar           | Utfordringsseminar               |TL: kap.5-6, 11-13, 17, 20. SØ: kap 4-5   |
