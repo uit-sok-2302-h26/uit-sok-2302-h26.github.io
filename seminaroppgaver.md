@@ -25,8 +25,8 @@ På denne siden vil vi legge opp seminaroppgaver og eventuelle løsninger til op
 
 ## S5 - Dynamisk effektivitet og uttømbare ressurser
 
-* [S5_seminaropppgaver](assets/Seminar_5_dynamisk.pdf)
-* [S5_løsningsforslag](assets/Seminar_5_dynamisk_losn.pdf)
+* [S5 seminaropppgaver](assets/seminar_kapittel_5-6.pdf)
+* [S5 løsningsforslag](assets/seminar_kapittel_5-6_losningsforslag.pdf)
 
 ## Utfordringsseminar 1
 
