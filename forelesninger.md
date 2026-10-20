@@ -96,6 +96,10 @@ På denne siden vil vi laste opp forelesningsnotater og andre ressurser som vi t
 #### Støtteressurser
 * [Managing natural resources - Acheiving more with less - OECD](https://www.youtube.com/watch?v=ZERrpFwETgs)
 
+### F17 - Fellesresurser
+
+#### Forelesningsnotater
+* [Forelesning](assets/K17_SOK2302_H26_fellesresurser.pdf)
 ### Oppsummering
 
 #### Forelesningsnotater
