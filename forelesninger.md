@@ -76,7 +76,7 @@ På denne siden vil vi laste opp forelesningsnotater og andre ressurser som vi t
 
 #### Forelesningsnotater
 
-### F7 - Klima og energi
+### F7 - Klimaendringer
 
 #### Forelesningsnotater
 * [Klima](assets/F8_climatechange_sok2302_h26.pdf)
