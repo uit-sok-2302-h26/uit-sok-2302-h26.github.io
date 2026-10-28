@@ -90,6 +90,7 @@ På denne siden vil vi laste opp forelesningsnotater og andre ressurser som vi t
 
 
 ### F8 - Bærekraftig utvikling og sirkulær økonomi
+* [Bærekraftig utvikling og sirkulær økonomi](assets/F8_SustDev_CircEcon_sok2302_h26.pdf)
 
 #### Forelesningsnotater
 
