@@ -69,13 +69,11 @@ Under ser du eksempelspørsmål. Vi kan komme å oppdatere spørsmålsbanken i l
 
 #### TEMA 2: Dynamisk effektivitet og bærekraft
 
-- Hva innebærer dynamisk effektivitet?
-
 - Hva er forskjellen mellom statisk og dynamisk effektivitet?
 
-- Hvorfor er den marginale brukerkostnaden (MUC) større enn null for knappe endelige ressurser?
+- Hvorfor må diskonterer vi framtide verdier og hvordan påvirker diskonteringsrente framtidige generasjoner?
 
-- Hvordan påvirker størrelsen på diskonteringsrenten vektlegging av velferden til framtidige generasjoner?
+- Hvorfor er den marginale brukerkostnaden (MUC) større enn null for knappe endelige ressurser?
 
 - Hvordan definerer Hartwick-regelen et bærekraftig bruk av en ressurs?
 
