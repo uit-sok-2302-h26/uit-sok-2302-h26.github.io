@@ -55,7 +55,13 @@ Under ser du eksempelspørsmål. Vi kan komme å oppdatere spørsmålsbanken i l
 
 - Hvorfor kan asymmetrisk fordelt informasjon gi opphav til inneffektiv bruk av miljø- og naturressurser?
 
+- Hva menes med nåtidssjeve preferanser, og hvorfor er slike preferanser et problem?
+
 - Hvorfor kan uklare (ineffektive) eiendomsrettigheter skape miljøproblemer?
+
+- Hva betyr det at markedet «internaliserer» en eksternalitet?
+
+#### TEMA 2:. Verdsetting av miljø og nyttekostnadsanalyse
 
 - Hva er ikke-bruksverdi (non-use value)?
 
@@ -87,47 +93,67 @@ Under ser du eksempelspørsmål. Vi kan komme å oppdatere spørsmålsbanken i l
 
 - Hva menes med maksimal bærekraftig avkastning (MSY)?
 
-- Hvorfor er ikke gjenvinning alene tilstrekkelig for å oppnå en sirkulær økonomi?
+- Bærekraftig utvikling er et mangdimensjonelt begrep. Hvilke dimensjoner inngår, og hvorfor må utviklingen være bærekraftig innen alle dimensjoner?
 
-- Hvorfor kan markeder alene gi for lite sirkulær aktivitet?
+- Hvorfor er positiv Genuine Savings (GS) ikke tilstrekkelig dokumentasjon på at et lands utvikling er bærekraftig?
+
+- Hva er hovedideen bak smultringsøkonomien?
+
+- Hva er forskjellen mellom et nasjonalt territorielt og et forbruksbasert klimaregnskap og hvorfor er det viktig å se på begge?
+
+- Hvorfor er vekst i BNP per innbygger alene ikke et tilstrekkelig mål på bærekraftig utvikling?
+
+- Hvorfor krever opphopende forurensning som $CO_2$ vanligvis en dynamisk analyse, ikke bare en statisk vurdering av ett års utslipp?
 
 #### TEMA 3: Miljø- og klimapolitiske tiltak
 
-- Hvor høy skal en Pigou-skatt optimalt være?
+- Hvor høy skal en Pigou-avgift optimalt være?
 
-- Hva betyr det at markedet «internaliserer» en eksternalitet?
+- Hvor høy skal karbonprisen være for at utslippene av klimagass reduseres på et samfunnsøkonomisk optimalt måte?
 
 - Hva menes med at et miljøpolitisk tiltak er kostnadseffektivt?
 
-- Hva er fordelen med markedsbaserte virkemidler sammenlignet med direkte regulering?
+- Hvorfor kan markedsbaserte virkemidler (f.eks Pigou-avgifter og omsettelige kvoter) være bedre enn direkte regulering (f.eks. kvoter eller krav) fra et samfunnsøkonomisk perspektiv?
 
-- Hvorfor vil bedrifter med lave rensekostnader redusere mest utslipp i et system med omsettelige kvoter?
+- Hva kjennetegner en kostnadseffektiv fordeling av utslippsreduksjoner, og hvorfor?
 
-- Hva kjennetegner en kostnadseffektiv fordeling av utslippsreduksjoner?
+- Hvordan skal karbonprisen variere mellom ulike utslippskilder innen en tidsperiode og over tid, for at kostnadseffektivitet skal oppnås?
 
 - Hvordan kan miljøpolitikk stimulere teknologisk utvikling?
 
 - Hva er forskjellen mellom miljøeffektivitet og kostnadseffektivitet?
 
-- Hvorfor er irreversibilitet viktig i miljøpolitikken?
+- Noen miljøskader som oppstår av klimagassutslipp kan være irreversible. Hvorfor kan dette styrke argumentet for tidlige miljøtiltak?
+
+- Hvordan kan en mer sirkulær økonomi bidra til å styrke forsyningssikkerheten? 
+
+- Hvordan kan grønn omstilling i EU føre til et konkurransefortrinn for bedrifter innen EU?
+
+- Hva er forskjellen mellom en Pigou-avgift og et omsettelig kvotesystem (ETS) når det gjelder forutsigbarhet for utslippsnivå og utslippspris?
 
 #### TEMA 4: Utfordringer for miljø- og klimapolitikk
 
-- Hvorfor kan politisk gjennomførbarhet være forskjellig fra samfunnsøkonomisk effektivitet?
+- En sentral utfordring for samfunnsøkonomisk optimal klimapolitikk kan beskrives som et “kunnskapsproblem”. Hva er det vi mangler kunnskap om?
 
-- Hvordan kan usikkerhet påvirke investeringer i grønn teknologi?
+- Hvilke forhold gjør det vanskelig å etablere og håndheve internasjonale avtaler om utslippsreduksjoner?
 
-- Hva er en mulig konflikt mellom økonomisk vekst og miljøhensyn?
+- Hvorfor kan et klimatiltak være samfunnsøkonomisk lønnsomt samlet sett, men likevel møte politisk motstand?
 
-- Hvorfor er klimaendringer et internasjonalt samarbeidsproblem?
+- Hvilke faktorer er viktige for at politiske tiltak skal aksepteres av befolkningen, i henhold til forskningen?
+
+- Hvordan kan vi forstå at markedet investerer for lite i utvikling av grønn teknologi fra et samfunnsøkonomisk perspektiv?
 
 - Hvorfor kan land ha insentiver til å redusere mindre utslipp enn det som er samfunnsøkonomisk optimalt globalt?
 
-- Hvorfor kan grønn omstilling være krevende selv om den er samfunnsøkonomisk lønnsom på lang sikt?
+- Hva menes med vippepunkter i klimasystemet, og hvorfor er de utfordrende for klimapolitikken?
 
 - Hvorfor er karbonlekkasje en utfordring for miljø-politikk?
 
+- Hva er en så kalt “klimaklubb” (Nordhaus, 2015 og 2021), og hvordan kan slike klubber potensielt redusere utfordringer knyttet til internasjonalt klimasamarbeid?
+
 - Hvorfor kan fordelingshensyn være viktige i klimapolitikken?
+
+- Hva er hovedgrunnen til at en sirkulær omstilling kan kreve en kombinasjon av økonomiske, regulatoriske og informative virkemidler?
 
 ### Del 3. Oppgave
 
@@ -137,61 +163,65 @@ Under ser du eksempelspørsmål. Vi kan komme å oppdatere spørsmålsbanken i l
 
 EU ETS er et system som skal redusere utslippene av klimagasser i Europa.
 
-Forklar hvordan handel med utslippskvoter fungerer.
+- Forklar hvordan handel med utslippskvoter fungerer.
 
-Drøft i hvilken grad systemet kan bidra til en samfunnsøkonomisk effektiv reduksjon av utslippene.
+- Illustrer grafisk og forklar de økonomiske mekanismene.
 
-Illustrer grafisk og forklar de økonomiske mekanismene.
-
-Diskuter utfordringer knyttet til utforming og implementering av systemet.
+- Drøft i hvilken grad systemet kan bidra til en samfunnsøkonomisk effektiv reduksjon av utslippene, og diskuter utfordringer knyttet til utforming og implementering.
 
 #### 2. Drivstoffavgift
 
-Som følge av uro i verdensøkonomien økte drivstoffprisene kraftig. Flere land valgte derfor å redusere avgiftene på drivstoff.
+Bilkjøring gir nytte for den enkelte bilist, men eksos fra biler bidrar også til utslipp av blant annet NOx og $CO_2$. NOx bidrar til lokal luftforurensning og kan ha helseskadelige virkninger, mens $CO_2$ bidrar til globale klimaendringer.
 
-Forklar de samfunnsøkonomiske argumentene for avgifter på drivstoff.
+- Forklar de samfunnsøkonomiske argumentene for avgifter på drivstoff. Bruk grafisk illustrasjon og forklar de økonomiske mekanismene. Du kan enten analysere et individs valg av liter drivstoff, eller tilbud og etterspørsel på drivstoff på et marked.
 
-Drøft hvordan slike avgifter påvirker økonomiske beslutninger og samfunnsøkonomisk effektivitet.
-
-Illustrer grafisk og forklar de økonomiske mekanismene.
-
-Diskuter utfordringer knyttet til avgifter som miljøpolitisk virkemiddel, og vurder reduksjonen i drivstoffavgiftene fra et samfunnsøkonomisk perspektiv.
+- Hvilke fordeler og utfordringer er det ved å bruke en generell avgift per liter drivstoff for å redusere miljøskadene knyttet til $NO_X$ og $CO_2$ fra bilkjøring?
+- 
 
 #### 3. Piggdekkavgift
 
-Piggdekk bidrar til lokal luftforurensning og økt veislitasje. Mange kommuner bruker enten avgifter eller reguleringer for å begrense bruken.
+Bruk av piggdekk bidrar til lokal luftforurensning og økt veislitasje. Mange kommuner bruker enten avgifter eller reguleringer for å begrense bruken.
 
-Forklar de samfunnsøkonomiske argumentene for å bruke en avgift på piggdekk.
+- Forklar de samfunnsøkonomiske argumentene for å bruke en **avgift på piggdekk**.
 
-Drøft hvorfor økonomer ofte foretrekker avgifter framfor forbud eller andre direkte reguleringer.
+- Illustrer grafisk og forklar de økonomiske mekanismene. Anta (veldig forenklet) at avgiften er per km bruk av piggdekk. Du kan analysere et individs valg av piggdekksbruk.
 
-Illustrer grafisk og forklar de økonomiske mekanismene.
-
-Diskuter hvorfor myndigheter i praksis likevel ofte benytter reguleringer framfor avgifter.
+- Hvilke fordeler og utfordringer er det ved å bruke avgifter framfor direkte reguleringer for å begrense bruken av piggdekk?
 
 #### 4. Pay-as-you-throw
 
-I flere land må husholdninger og bedrifter betale en avgift per kg restavfall i tillegg til faste renovasjonsgebyrer.
+I flere land må husholdninger og bedrifter betale en avgift per kg restavfall i tillegg til faste renovasjonsgebyrer. Gå ut ifra at husholdninger kan velge mellom å slenge søppel i restavfallet eller sortere det på en returstasjon.
 
-Drøft de samfunnsøkonomiske argumentene for et slikt system.
+- Drøft de samfunnsøkonomiske argumentene for et slikt system.
 
-Illustrer grafisk og forklar de økonomiske mekanismene. Bruk etterspørsel og tilbud av renovasjonstjenester.
+- Illustrer grafisk og forklar de økonomiske mekanismene.
 
-Diskuter hvordan tiltaket kan påvirke resirkulering, gjenbruk og ressursutnyttelse
+- Diskuter hvordan tiltaket kan påvirke resirkulering, gjenbruk og ressursutnyttelse
 
-Diskuter utilsiktede konsekvenser av avgiften.
+- Diskuter utfordringer og utilsiktede konsekvenser av avgiften.
 
-#### 5. Vannmangel i jordbruket
+#### 5. Pant på flasker og bokser
 
-Klimaendringer gjør at flere regioner opplever perioder med vannmangel. Jordbruket står ofte for en betydelig del av vannforbruket.
+Mange land bruker pantesystemer for drikke-emballasje.
 
-Drøft de samfunnsøkonomiske argumentene for å regulere vannforbruket gjennom avgifter, kvoter eller andre virkemidler.
+- Forklar de samfunnsøkonomiske argumentene for et pantesystem.
 
-Illustrer grafisk og forklar de økonomiske mekanismene.
+- Drøft hvordan pant påvirker husholdningenes insentiver og hvorfor et slikt system kan bidra til mer effektiv ressursutnyttelse.
 
-Diskuter utfordringer knyttet til informasjon, håndheving og fordeling.
+- Illustrer grafisk og forklar økonomiske mekanismer.
 
-#### 6. Fiskekvoter
+
+#### 6. Vannmangel i jordbruket
+
+Klimaendringer gjør at flere regioner opplever perioder med vannmangel. Jordbruket står ofte for en betydelig del av vannforbruket. Per idag betaler jordbrukere i Norge avgifter på vann som avhenger mengde produksjon og type produksjon, der mer vannintensive produksjonstyper gir høyere avgifter.
+
+- Drøft de samfunnsøkonomiske argumentene for vannavgifter som avhenger hvor "vannintensiv" produksjonen er eller salgbare kvoter, i områder der vann er en knapp ressurs.
+
+- Illustrer grafisk og forklar de økonomiske mekanismene. Sammenlign et system med fast årsgebyr opp imot et system med avgifter per liter vann.
+
+- Diskuter utfordringer knyttet til tiltaket.
+
+#### 7. Fiskekvoter
 
 I Norge reguleres fisket gjennom kvotesystemer.
 
@@ -203,27 +233,6 @@ Illustrer grafisk og forklar de økonomiske mekanismene.
 
 Diskuter utfordringer knyttet til fastsettelse og fordeling av kvoter.
 
-#### 7. Pant på flasker og bokser
-
-Mange land bruker pantesystemer for emballasje.
-
-Forklar de samfunnsøkonomiske argumentene for et pantesystem.
-
-Drøft hvordan pant påvirker husholdningenes insentiver og hvorfor et slikt system kan bidra til mer effektiv ressursutnyttelse.
-
-Illustrer grafisk og forklar økonomiske mekanismer.
-
-#### 8. Subsidier til elbiler
-
-Mange land har brukt subsidier og skattefordeler for å øke salget av elbiler.
-
-Forklar de samfunnsøkonomiske argumentene for subsidier til elbiler.
-
-Drøft hvordan subsidier påvirker konsumenters valg og hvilke markedssvikter tiltaket er ment å adressere.
-
-Illustrer grafisk og forklar økonomiske mekanismer.
-
-Diskuter utfordringer knyttet til kostnader, fordelingsvirkninger og effektivitet.
 
 #### 9. Vern av naturområder
 
