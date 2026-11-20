@@ -105,6 +105,6 @@ På denne siden vil vi laste opp forelesningsnotater og andre ressurser som vi t
 
 #### Forelesningsnotater
 
-* [F12- Oppsummering](assets/F12_sok2302_h25_oppsummering_2025.11.03.pdf)
+* [F12- Oppsummering](assets/SOK2302_oppsummering_h26.pptx)
 
 
