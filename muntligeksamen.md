@@ -71,9 +71,13 @@ Under ser du eksempelspørsmål. Vi kan komme å oppdatere spørsmålsbanken i l
 - Når vi verdsetter et naturområde, hva menes med arveverdi (bequest value)?
 
 - Når vi vurderer hvordan et miljøtiltak påvirker ulike grupper, hva vil det si at en ressursfordeling er Pareto-optimal?
+  
 - Hvordan kan en spørreundersøkelse brukes til å anslå betalingsvilligheten for renere vann i en innsjø?
+
 - I en spørreundersøkelse om betalingsvillighet for å bevare et naturområde svarer en person «null kroner» fordi hun mener kommunen bør betale. Hva kan du slutte av svaret om hvor mye hun verdsetter området?
+
 - I en nytte-kostnadsanalyse av et veiprosjekt er netto nåverdi positiv. Hva forteller det om de prissatte virkningene av prosjektet?
+
 - Et veiprosjekt gir kortere reisetid, men fører til tap av et naturområde. Hvordan kan naturtapet komme fram i nytte-kostnadsanalysen?
 
 #### TEMA 3: Dynamisk effektivitet og bærekraft
@@ -85,6 +89,7 @@ Under ser du eksempelspørsmål. Vi kan komme å oppdatere spørsmålsbanken i l
 - Hvorfor er den marginale brukerkostnaden (MUC) større enn null for knappe endelige ressurser?
 
 - Hva menes med bærekraftig utvikling?
+
 - Bærekraftig utvikling er et mangdimensjonelt begrep. Hvilke dimensjoner inngår, og hvorfor må utviklingen være bærekraftig innen alle dimensjoner?
 
 - Hva er forskjellen mellom svak og sterk bærekraft?
@@ -125,7 +130,7 @@ Under ser du eksempelspørsmål. Vi kan komme å oppdatere spørsmålsbanken i l
 
 - Hvordan kan en mer sirkulær økonomi bidra til å styrke forsyningssikkerheten? 
 
--  Hvordan kan grønn omstilling i EU gi bedrifter i EU et konkurransefortrinn?
+- Hvordan kan grønn omstilling i EU gi bedrifter i EU et konkurransefortrinn?
 
 - Hva er forskjellen mellom en Pigou-avgift og et omsettelig kvotesystem (ETS) når det gjelder forutsigbarhet for utslippsnivå og utslippspris?
 
