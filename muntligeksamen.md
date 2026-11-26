@@ -134,6 +134,8 @@ Under ser du eksempelspørsmål. Vi kan komme å oppdatere spørsmålsbanken i l
 
 - Hva er forskjellen mellom en Pigou-avgift og et omsettelig kvotesystem (ETS) når det gjelder forutsigbarhet for utslippsnivå og utslippspris?
 
+- Hvorfor er resirkulering alene ikke nok for å få en sirkulær økonomi??
+
 #### TEMA 5: Utfordringer for miljø- og klimapolitikk
 
 - En sentral utfordring for samfunnsøkonomisk optimal klimapolitikk kan beskrives som et “kunnskapsproblem”. Hva er det vi mangler kunnskap om?
