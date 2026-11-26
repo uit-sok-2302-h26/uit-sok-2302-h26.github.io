@@ -223,23 +223,23 @@ Klimaendringer gjør at flere regioner opplever perioder med vannmangel. Jordbru
 
 I Norge reguleres fisket gjennom kvotesystemer.
 
-Forklar hvorfor et fritt marked kan føre til overforbruk av fiskebestander.
+- Forklar hvorfor et fritt marked kan føre til overforbruk av fiskebestander.
 
-Drøft hvordan kvoter kan bidra til en mer samfunnsøkonomisk effektiv forvaltning av fiskeressursene.
+- Drøft hvordan kvoter kan bidra til en mer samfunnsøkonomisk effektiv forvaltning av fiskeressursene.
 
-Illustrer grafisk og forklar de økonomiske mekanismene.
+- Illustrer grafisk og forklar de økonomiske mekanismene.
 
-Diskuter utfordringer knyttet til fastsettelse og fordeling av kvoter.
+- Diskuter utfordringer knyttet til fastsettelse og fordeling av kvoter.
 
 
 #### 9. Vern av naturområder
 
 Myndighetene vurderer å verne et naturområde mot utbygging.
 
-Forklar hvilke økonomiske argumenter som kan begrunne vern av naturområder.
+- Forklar hvilke økonomiske argumenter som kan begrunne vern av naturområder.
 
-Drøft hvilke verdier naturområder kan ha, og hvordan dette kan skape utfordringer for markedsbasert ressursallokering.
+- Drøft hvilke verdier naturområder kan ha, og hvordan dette kan skape utfordringer for markedsbasert ressursallokering.
 
-Illustrer grafisk der det er relevant, og diskuter utfordringer knyttet til verdsetting av natur.
+- Illustrer grafisk der det er relevant, og diskuter utfordringer knyttet til verdsetting av natur.
 
 
