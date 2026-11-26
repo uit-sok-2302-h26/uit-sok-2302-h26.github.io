@@ -37,7 +37,7 @@ I presentasjonen skal du:
 
 ### Del 2. Korte spørsmål
 
-Under ser du eksempelspørsmål. Vi kan komme å oppdatere spørsmålsbanken i løpet av kurset. 
+Under ser du spørsmålene som inngår i oppgavebanken. 
 
 #### TEMA 1: Statisk effektivitet, markedssvikt, miljøgoder og eiendomsrettigheter
 
@@ -162,7 +162,7 @@ Under ser du eksempelspørsmål. Vi kan komme å oppdatere spørsmålsbanken i l
 
 ### Del 3. Oppgave
 
-Under ser du eksempelspørsmål. Vi kan komme å oppdatere spørsmålsbanken i løpet av kurset. 
+Under ser du oppgavene som inngår i oppgavebanken.
 
 #### 1. EU ETS
 
