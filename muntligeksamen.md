@@ -47,43 +47,45 @@ Under ser du eksempelspørsmål. Vi kan komme å oppdatere spørsmålsbanken i l
 
 - Hva menes med samfunnsøkonomisk effektivitet?
 
-- Klima er et eksempel på et globalt kollektivt gode, hva karakteriserer et kollektivt gode?
+- Et stabilt klima er et eksempel på et globalt kollektivt gode. Hva kjennetegner et kollektivt gode?
 
-- Hva karakteriserer et ressurser som risikerer å gi opphav til "allmenningens tragedie"?
+- Hva kjennetegner ressurser som kan bli overutnyttet ved åpen tilgang?
 
 - Hva menes med gratispassasjerproblemet (free-rider problem)?
 
-- Hvorfor kan asymmetrisk fordelt informasjon gi opphav til inneffektiv bruk av miljø- og naturressurser?
+- Hvorfor kan asymmetrisk informasjon føre til ineffektiv bruk av miljø- og naturressurser?
 
-- Hva menes med nåtidssjeve preferanser, og hvorfor er slike preferanser et problem?
+- Hva er nåtidsskjevhet, og hvordan kan den påvirke beslutninger?
 
 - Hvorfor kan uklare (ineffektive) eiendomsrettigheter skape miljøproblemer?
 
-- Hva betyr det at markedet «internaliserer» en eksternalitet?
+-  Hva betyr det at markedet «internaliserer» en eksternalitet?
 
 #### TEMA 2:. Verdsetting av miljø og nyttekostnadsanalyse
 
-- Hva er ikke-bruksverdi (non-use value)?
+- Når vi verdsetter et naturområde, hva menes med ikke-bruksverdi (non-use value)?
 
-- Hva er optionsverdi?
+- Når vi verdsetter et naturområde, hva menes med opsjonsverdi (option value)?
+- Når vi verdsetter et naturområde, hva menes med eksistensverdi (existence value)?
 
-- Hva er eksistensverdi?
+- Når vi verdsetter et naturområde, hva menes med arveverdi (bequest value)?
 
-- Hva er arve-verdi (bequest value)?
+- Når vi vurderer hvordan et miljøtiltak påvirker ulike grupper, hva vil det si at en ressursfordeling er Pareto-optimal?
+- Hvordan kan en spørreundersøkelse brukes til å anslå betalingsvilligheten for renere vann i en innsjø?
+- I en spørreundersøkelse om betalingsvillighet for å bevare et naturområde svarer en person «null kroner» fordi hun mener kommunen bør betale. Hva kan du slutte av svaret om hvor mye hun verdsetter området?
+- I en nytte-kostnadsanalyse av et veiprosjekt er netto nåverdi positiv. Hva forteller det om de prissatte virkningene av prosjektet?
+- Et veiprosjekt gir kortere reisetid, men fører til tap av et naturområde. Hvordan kan naturtapet komme fram i nytte-kostnadsanalysen?
 
-- Hva karakteriserer en Pareto-optimal likevekt?
-
-#### TEMA 2: Dynamisk effektivitet og bærekraft
+#### TEMA 3: Dynamisk effektivitet og bærekraft
 
 - Hva er forskjellen mellom statisk og dynamisk effektivitet?
 
-- Hvorfor må diskonterer vi framtide verdier og hvordan påvirker diskonteringsrente framtidige generasjoner?
+- Hvorfor diskonterer vi framtidig nytte og kostnader, og hvordan påvirker diskonteringsrenten vekten vi legger på framtidige generasjoners nytte? 
 
 - Hvorfor er den marginale brukerkostnaden (MUC) større enn null for knappe endelige ressurser?
 
-- Hvordan definerer Hartwick-regelen et bærekraftig bruk av en ressurs?
-
 - Hva menes med bærekraftig utvikling?
+- Bærekraftig utvikling er et mangdimensjonelt begrep. Hvilke dimensjoner inngår, og hvorfor må utviklingen være bærekraftig innen alle dimensjoner?
 
 - Hva er forskjellen mellom svak og sterk bærekraft?
 
@@ -92,8 +94,6 @@ Under ser du eksempelspørsmål. Vi kan komme å oppdatere spørsmålsbanken i l
 - Hvorfor kan en fornybar ressurs bli overutnyttet?
 
 - Hva menes med maksimal bærekraftig avkastning (MSY)?
-
-- Bærekraftig utvikling er et mangdimensjonelt begrep. Hvilke dimensjoner inngår, og hvorfor må utviklingen være bærekraftig innen alle dimensjoner?
 
 - Hvorfor er positiv Genuine Savings (GS) ikke tilstrekkelig dokumentasjon på at et lands utvikling er bærekraftig?
 
@@ -105,19 +105,17 @@ Under ser du eksempelspørsmål. Vi kan komme å oppdatere spørsmålsbanken i l
 
 - Hvorfor krever opphopende forurensning som $CO_2$ vanligvis en dynamisk analyse, ikke bare en statisk vurdering av ett års utslipp?
 
-#### TEMA 3: Miljø- og klimapolitiske tiltak
+#### TEMA 4: Miljø- og klimapolitiske tiltak
 
-- Hvor høy skal en Pigou-avgift optimalt være?
+- Hvor høy bør en Pigou-avgift være for å gi et samfunnsøkonomisk effektivt utslippsnivå?
 
-- Hvor høy skal karbonprisen være for at utslippene av klimagass reduseres på et samfunnsøkonomisk optimalt måte?
+- Hva bør karbonprisen gjenspeile for at utslippsnivået skal være samfunnsøkonomisk optimalt?
 
 - Hva menes med at et miljøpolitisk tiltak er kostnadseffektivt?
 
-- Hvorfor kan markedsbaserte virkemidler (f.eks Pigou-avgifter og omsettelige kvoter) være bedre enn direkte regulering (f.eks. kvoter eller krav) fra et samfunnsøkonomisk perspektiv?
+- Hvorfor kan avgifter eller omsettelige kvoter gi lavere samlede rensekostnader enn like utslippskrav for alle bedrifter?
 
 - Hva kjennetegner en kostnadseffektiv fordeling av utslippsreduksjoner, og hvorfor?
-
-- Hvordan skal karbonprisen variere mellom ulike utslippskilder innen en tidsperiode og over tid, for at kostnadseffektivitet skal oppnås?
 
 - Hvordan kan miljøpolitikk stimulere teknologisk utvikling?
 
@@ -127,11 +125,11 @@ Under ser du eksempelspørsmål. Vi kan komme å oppdatere spørsmålsbanken i l
 
 - Hvordan kan en mer sirkulær økonomi bidra til å styrke forsyningssikkerheten? 
 
-- Hvordan kan grønn omstilling i EU føre til et konkurransefortrinn for bedrifter innen EU?
+-  Hvordan kan grønn omstilling i EU gi bedrifter i EU et konkurransefortrinn?
 
 - Hva er forskjellen mellom en Pigou-avgift og et omsettelig kvotesystem (ETS) når det gjelder forutsigbarhet for utslippsnivå og utslippspris?
 
-#### TEMA 4: Utfordringer for miljø- og klimapolitikk
+#### TEMA 5: Utfordringer for miljø- og klimapolitikk
 
 - En sentral utfordring for samfunnsøkonomisk optimal klimapolitikk kan beskrives som et “kunnskapsproblem”. Hva er det vi mangler kunnskap om?
 
@@ -141,13 +139,13 @@ Under ser du eksempelspørsmål. Vi kan komme å oppdatere spørsmålsbanken i l
 
 - Hvilke faktorer er viktige for at politiske tiltak skal aksepteres av befolkningen, i henhold til forskningen?
 
-- Hvordan kan vi forstå at markedet investerer for lite i utvikling av grønn teknologi fra et samfunnsøkonomisk perspektiv?
+- Hvorfor kan bedrifter investere mindre i grønn teknologi enn det som er samfunnsøkonomisk lønnsomt?
 
-- Hvorfor kan land ha insentiver til å redusere mindre utslipp enn det som er samfunnsøkonomisk optimalt globalt?
+- Hvorfor kan det lønne seg for ett land å kutte mindre enn det som er best for verden samlet?
 
 - Hva menes med vippepunkter i klimasystemet, og hvorfor er de utfordrende for klimapolitikken?
 
-- Hvorfor er karbonlekkasje en utfordring for miljø-politikk?
+- Hvorfor er karbonlekkasje en utfordring for miljøpolitikken?
 
 - Hva er en så kalt “klimaklubb” (Nordhaus, 2015 og 2021), og hvordan kan slike klubber potensielt redusere utfordringer knyttet til internasjonalt klimasamarbeid?
 
