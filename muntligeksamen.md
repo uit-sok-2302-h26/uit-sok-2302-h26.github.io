@@ -12,7 +12,7 @@ Den muntlige eksamen vil skje i over flere dager en angitt uke. Dere vil få sen
 I denne delen skal dere gjennomføre en selvstendig presentasjon om hva dere har lært dere på kurset. Presentasjonen skal gjennomføres uten lysbilder.
 
 ### Del 2: 5 korte spørsmål (5 minutter)
-I denne delen vil dere få 5 tilfeldig trukne korte spørsmål fra 4 forskjellige temaer (se under). Dere vil få et spørsmål per tema. I tillegg skal dere velge et tema, fra hvilket dere får et ekstra spørsmål.
+I denne delen vil dere få 5 tilfeldig trukne korte spørsmål fra 5 forskjellige temaer (se under). Dere vil få et spørsmål per tema. 
 
 ### Del 3: 1 oppgave (8 + 2 minutter)
 I denne delen skal dere løse en litt større oppgave. 
